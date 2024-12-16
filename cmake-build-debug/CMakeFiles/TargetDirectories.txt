@@ -1,0 +1,3 @@
+C:/Users/Kacper/CLionProjects/TSP_Tabu_Search&Simulated_Annealing/cmake-build-debug/CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir
+C:/Users/Kacper/CLionProjects/TSP_Tabu_Search&Simulated_Annealing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kacper/CLionProjects/TSP_Tabu_Search&Simulated_Annealing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

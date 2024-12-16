@@ -1,0 +1,14 @@
+# ninja log v6
+32	1303	7555851096302943	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/app/main.cpp.obj	b7d86c3bd32131c3
+45	1584	7555851096424564	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/structures/Graph.cpp.obj	dfa677fe473c90f2
+67	1995	7555851096634592	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/algorithms/SimulatedAnnealing.cpp.obj	54fe6115a9085507
+56	3515	7555851096534590	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/ui/Menu.cpp.obj	8cca6f1866c8ebb0
+3841	4119	7555851134380013	TSP_Tabu_Search_Simulated_Annealing.exe	27adcc66b78ff4fe
+78	3841	7555851096749417	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/algorithms/TabuSearch.cpp.obj	1e06073c75bab5fe
+48	1090	7555859680608690	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/app/main.cpp.obj	f66545f328d47949
+58	1460	7555859680715768	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/structures/Graph.cpp.obj	7b0949cc90522434
+76	1818	7555859680893641	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/algorithms/SimulatedAnnealing.cpp.obj	a234b8659f81056
+68	3556	7555859680809717	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/ui/Menu.cpp.obj	52e5f622a85a0ec9
+86	4045	7555859680988636	CMakeFiles/TSP_Tabu_Search_Simulated_Annealing.dir/src/algorithms/TabuSearch.cpp.obj	4f6d5b7a84314eb9
+4045	4367	7555859720584684	TSP_Tabu_Search_Simulated_Annealing.exe	27adcc66b78ff4fe
+49	79	7555859825763845	clean	20b1347d9ae3b987
